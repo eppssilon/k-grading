@@ -20,7 +20,7 @@ BURN_IN = 40
 REFIT_EVERY = 10
 BUTTONS = [("BAD", "MAUVAIS"), ("MID", "MID"), ("GOOD", "BON"), ("IDK", "PTDR T KI")]
 UVC_FROM, UVC_CHANCE = 20, 0.10
-CELEBRATE_AT = 3
+CELEBRATE_AT = 67
 MEME_TYPES = {".png": "image/png", ".jpg": "image/jpeg", ".jpeg": "image/jpeg",
               ".gif": "image/gif", ".webp": "image/webp"}
 
